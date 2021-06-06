@@ -1,0 +1,16 @@
+C:\Users\龍鳳\source\repos\SendCsvFileFtp\SendCsvFileFtp\bin\Debug\net5.0\SendCsvFileFtp.exe
+C:\Users\龍鳳\source\repos\SendCsvFileFtp\SendCsvFileFtp\bin\Debug\net5.0\SendCsvFileFtp.deps.json
+C:\Users\龍鳳\source\repos\SendCsvFileFtp\SendCsvFileFtp\bin\Debug\net5.0\SendCsvFileFtp.runtimeconfig.json
+C:\Users\龍鳳\source\repos\SendCsvFileFtp\SendCsvFileFtp\bin\Debug\net5.0\SendCsvFileFtp.runtimeconfig.dev.json
+C:\Users\龍鳳\source\repos\SendCsvFileFtp\SendCsvFileFtp\bin\Debug\net5.0\SendCsvFileFtp.dll
+C:\Users\龍鳳\source\repos\SendCsvFileFtp\SendCsvFileFtp\bin\Debug\net5.0\ref\SendCsvFileFtp.dll
+C:\Users\龍鳳\source\repos\SendCsvFileFtp\SendCsvFileFtp\bin\Debug\net5.0\SendCsvFileFtp.pdb
+C:\Users\龍鳳\source\repos\SendCsvFileFtp\SendCsvFileFtp\obj\Debug\net5.0\SendCsvFileFtp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\龍鳳\source\repos\SendCsvFileFtp\SendCsvFileFtp\obj\Debug\net5.0\SendCsvFileFtp.AssemblyInfoInputs.cache
+C:\Users\龍鳳\source\repos\SendCsvFileFtp\SendCsvFileFtp\obj\Debug\net5.0\SendCsvFileFtp.AssemblyInfo.vb
+C:\Users\龍鳳\source\repos\SendCsvFileFtp\SendCsvFileFtp\obj\Debug\net5.0\SendCsvFileFtp.vbproj.CoreCompileInputs.cache
+C:\Users\龍鳳\source\repos\SendCsvFileFtp\SendCsvFileFtp\obj\Debug\net5.0\SendCsvFileFtp.dll
+C:\Users\龍鳳\source\repos\SendCsvFileFtp\SendCsvFileFtp\obj\Debug\net5.0\ref\SendCsvFileFtp.dll
+C:\Users\龍鳳\source\repos\SendCsvFileFtp\SendCsvFileFtp\obj\Debug\net5.0\SendCsvFileFtp.pdb
+C:\Users\龍鳳\source\repos\SendCsvFileFtp\SendCsvFileFtp\obj\Debug\net5.0\SendCsvFileFtp.genruntimeconfig.cache
+C:\Users\龍鳳\source\repos\SendCsvFileFtp\SendCsvFileFtp\obj\Debug\net5.0\SendCsvFileFtp.vbprojAssemblyReference.cache
